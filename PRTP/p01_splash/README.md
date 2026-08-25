@@ -1,5 +1,5 @@
-# Hands-on 1 (HCI) - Splash Screen
-Small and pretty straightforward project to create a splash screen (sort of) for the HCI class.
+# Hands-on 1 (PRTP) - Splash Screen
+Small and pretty straightforward project to create a splash screen (sort of) for the PRTP class.
 
 This makes use of the `Thread` to create a delay before the main activity is launched. The splash screen will be displayed for a few seconds before transitioning to the main activity.
 

@@ -5,31 +5,28 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 public class HomeMenu extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
-        // 1.
+    
         Thread thread = new Thread(){
             @Override
             public void run(){
-                // 2.
                 try{
                     sleep(3000);
                 } catch(InterruptedException e){
                     e.printStackTrace();
                 } finally{
-                    // 3.
                     Intent intent = new Intent(HomeMenu.this, MainActivity.class);
                     startActivity(intent);
                     finish();
                 }
             }   
         };
-        // 4.
         thread.start();
     }
 }

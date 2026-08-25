@@ -8,13 +8,15 @@ This repository contains the code and resources for the HCI (Human-Computer Inte
 
 ---
 
-## Table of Contents ([TOC](#table-of-contents)) (W.I.P. Since there's no content yet)
+## Table of Contents ([TOC](#table-of-contents))
 
-**Coming soon (since classes have not started yet):**
+**A small heads-up, most of them are similar in structure and purpose, some are the same. Expect some repetition.**
 
-*[HCI Hands-on Projects](/HCI/)*
+* [HCI Hands-on Projects](/HCI/)
+   - [HCI Hands-on 1](/HCI/p01_splash/)
 
-*[PRTP Hands-on Projects](/PRTP/)*
+* [PRTP Hands-on Projects](/PRTP/)
+   - [PRTP Hands-on 1](/PRTP/p01_splash/)
 
 See the [Template](/Template/README.md) to get a blank project template to start your own projects.
 
@@ -71,6 +73,11 @@ I'll be using both Android Studio and Gradle to compile and run the projects. Yo
    ./gradlew installDebug
    ```
 5. **After the build is complete, you can launch the app on your Android device. Since Gradle handles the installation, you can find the app in your device's app drawer.**
+
+**To make a clean build, you can use the following command:**
+```bash
+./gradlew clean installDebug
+```
 
 If you encounter any issues during the setup or running of the projects, please refer to the official documentation of Android Studio, Java, and Gradle for troubleshooting. Or you can reach out to me for assistance.
 

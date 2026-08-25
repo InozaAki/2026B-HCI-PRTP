@@ -17,7 +17,6 @@
             android:windowSoftInputMode="adjustResize"
             >
         </activity>
-        <!-- 1. -->
         <activity
             android:name=".HomeMenu"
             android:exported="true"
