@@ -15,10 +15,16 @@ This repository contains the code and resources for the HCI (Human-Computer Inte
 * [HCI Hands-on Projects](/HCI/)
    - [HCI Hands-on 1](/HCI/p01_splash/)
    - [HCI Hands-on 2](/HCI/p02_buttons/)
+   - [HCI Hands-on 3](/HCI/p03_toast/)
+   - [HCI Hands-on 4](/HCI/p04_editText/)
+   - [HCI Hands-on 5](/HCI/p05_parser/)
 
 * [PRTP Hands-on Projects](/PRTP/)
    - [PRTP Hands-on 1](/PRTP/p01_splash/)
-   - [PRTP Hands-on 2](/HCI/p02_buttons/)
+   - [PRTP Hands-on 2](/PRTP/p02_buttons/)
+   - [PRTP Hands-on 3](/PRTP/p03_toast/)
+   - [PRTP Hands-on 4](/PRTP/p04_editText/)
+   - [PRTP Hands-on 5](/PRTP/p05_parser/)
 
 See the [Template](/Template/README.md) to get a blank project template to start your own projects.
 
