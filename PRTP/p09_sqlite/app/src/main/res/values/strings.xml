@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Práctica 10</string>
+    <string name="title">Práctica 10 | SQLite</string>
+
+    <string name="add_song">Agregar canción</string>
+    <string name="list_songs">Lista de canciones</string>
+
+    <string name="add_song_button">Guardar</string>
+
+    <string name="title_hint">Título</string>
+    <string name="subtitle_hint">Artista</string>
+</resources>
