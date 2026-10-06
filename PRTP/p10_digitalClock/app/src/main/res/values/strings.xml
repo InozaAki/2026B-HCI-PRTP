@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Práctica 11</string>
+    <string name="title_activity_main">Práctica 11 - Reloj Digital</string>
+    <string name="display">10:10:10 AM</string>
+</resources>
